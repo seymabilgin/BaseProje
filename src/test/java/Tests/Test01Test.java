@@ -16,4 +16,9 @@ class Test01Test {
     public void name() {
    //v3 deneme
     }
+
+    @Test
+    public void name01() {
+        //ve deneme
+    }
 }
